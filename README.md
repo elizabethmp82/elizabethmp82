@@ -1,40 +1,62 @@
-# 👋 Olá! Eu sou a Elizabeth
 
-💻 **Desenvolvedora Web** e tenho paixão por criar soluções que tornam a experiência do usuário mais agradável e intuitiva.
+<sub>HELLO, WORLD. 👋</sub>
 
-🎓  Sou formada em **Sistemas de Informação** e atualmente estou cursando Pós-graduação em **Engenharia de Software**.
+# Elizabeth Melo.
 
-📌 Tecnologias principais: **React, Next.js, Tailwind CSS, Node.js, PostgreSQL**.  
+**Software Developer · Curious by nature.**
 
-🚀 Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores!
+*Entre códigos, ideias e possibilidades.*
 
----
-
-## 🚀 **Tecnologias e Ferramentas**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-<!--
-## 📂 **Projetos Destacados**
-🔹 [**Painel Escolar**](https://github.com/elizabethmp82/painel-escolar-admin) → Sistema de gestão escolar para professores e alunos.  
-🔹 [**Dashboard Financeiro**](https://github.com/elizabethmp82/dashboard-financeiro) → Aplicação para controle de receitas e despesas com gráficos interativos.  
-🔹 [**Landing Page Profissional**](https://github.com/elizabethmp82/landing-page) → Portfólio pessoal utilizando Next.js e Tailwind CSS.  
-
-📌 **Veja todos os meus projetos no meu [GitHub](https://github.com/elizabethmp82)**  
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D8A5B5?style=for-the-badge&logo=vercel&logoColor=18181B)](https://elizabethmelo.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-242424?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melo-elizabeth)
+[![Email](https://img.shields.io/badge/E--MAIL-242424?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meloelizabethp@gmail.com)
 
 ---
 
-## 📊 **GitHub Stats**
-![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizabethmp82&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethmp82&layout=compact&theme=radical)
+### 01 / Sobre mim
+
+Sou desenvolvedora de software, formada em Sistemas de Informação e movida pela curiosidade de entender como as coisas funcionam — e como podem funcionar melhor.
+
+Gosto de transformar problemas complexos em soluções simples, funcionais e bem pensadas. Meu interesse vai além do código: envolve arquitetura, design, segurança e a experiência de quem utiliza o que desenvolvo.
+
+> Acredito que a tecnologia faz mais sentido quando simplifica a vida das pessoas.
+
+### 02 / Meu universo tecnológico
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,postgres,prisma&theme=dark" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+### 03 / Construindo ideias
+
+| Projeto | Sobre |
+| :--- | :--- |
+| **IgrejaSync** | Plataforma SaaS multi-tenant para gestão e comunicação de comunidades. |
+| **BurgerMatch** | PWA para descoberta de hamburguerias com geolocalização e mapas interativos. |
+| **Meu portfólio** | Um espaço que reúne minha trajetória, experiências e projetos. [Explorar ↗](https://elizabethmelo.com) |
+
+### 04 / Além do código
+
+Gosto de explorar novas ideias, cinema, design e diferentes formas de compreender o mundo.
+
+Acredito que a criatividade também nasce fora da tecnologia e que aprender coisas novas transforma a maneira como desenvolvemos soluções.
 
 ---
--->
-## 📬 **Contato**
-📧 Email: meloelizabethp@gmail.com  
-💼 LinkedIn: [www.linkedin.com/in/melo-elizabeth)  
-<!--🌎 Portfólio: [seuportfólio.com](#)  -->
+
+<div align="center">
+
+*Sempre aprendendo. Sempre construindo.*
+
+<sub>Belém, Pará · Brasil</sub>
+
+**[elizabethmelo.com ↗](https://elizabethmelo.com)**
+
+</div>
